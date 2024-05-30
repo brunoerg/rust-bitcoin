@@ -7,7 +7,7 @@ To run the fuzz-tests as in CI -- briefly fuzzing every target -- simply
 run
 
 ```bash
-./fuzz.sh
+./fuzz.sh ""
 ```
 
 in this directory.
